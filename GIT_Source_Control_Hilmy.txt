@@ -2,11 +2,13 @@ Belajar GIT Source Control di Gamelab
 
 Nama    : Hilmy Nur Iman
 Umur    : 17
+Asal    : Mungkid
 Sekolah : SMKIT IF
 Alamat  : Tirto, Paremono, Magelang
 
 
 Saya senang Belajar Git Sources Control di Gamelab Indonesia
+
 
 
 
