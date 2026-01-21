@@ -1,5 +1,5 @@
 Belajar GIT Source Control di Gamelab
 
 Nama    : Hilmy Nur Iman
-
+Sekolah : SMKIT IF
 Saya senang Belajar Git Sources Control di Gamelab Indonesia
